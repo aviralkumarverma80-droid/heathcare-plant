@@ -2,13 +2,6 @@ ML4H2026
 ==============================
 
 Repository for projects of the ETH Zürich course "Machine Learning for Health Care (Spring 2020)" ([lecture page](https://bmi.inf.ethz.ch/teaching/261-5120-00l-machine-learning-for-health-care-spring-2020/)).
-
-**Authors** :  
-Han Bai  
-Nora Moser  
-Martin Tschechne (martints@ethz.ch)
-
-
 ## Project 1 - ECG Time Series
 Classifying ECG signals of the [MIT-BIH Arrhythmia Dataset](https://www.physionet.org/physiobank/database/mitdb/) and the [PTB Diagnostic ECG Database](https://www.physionet.org/physiobank/database/ptbdb/) by Recurrent Neural Networks and make use of Transfer Learning techniques in order to improve predictive performance.
 
@@ -166,4 +159,4 @@ For this repository the cookiecuter data science project template is used slight
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a></small></p>
