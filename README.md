@@ -1,4 +1,4 @@
-ML4H2020
+ML4H2026
 ==============================
 
 Repository for projects of the ETH Zürich course "Machine Learning for Health Care (Spring 2020)" ([lecture page](https://bmi.inf.ethz.ch/teaching/261-5120-00l-machine-learning-for-health-care-spring-2020/)).
